@@ -6,5 +6,5 @@ This is my react js app that I have developed, I have used usestate for state ma
 3. User gets to enter date
 4. User can complete the task
 
-#Project Lick
+#Project Link
 https://stackblitz.com/edit/react-n8zrom
